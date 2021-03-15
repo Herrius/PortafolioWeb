@@ -6,7 +6,7 @@
 /*  Importación de fuentes desde un archivo del mismo proyecto  */
 @font-face {
   font-family : 'Proxima Nova Rg';
-  src         : url('/files/proxima-nova-bold.otf');
+  src         : url('../files/proxima-nova-bold.otf');
 }
 
 :root {
